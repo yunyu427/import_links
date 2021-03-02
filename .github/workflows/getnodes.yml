@@ -32,5 +32,5 @@ jobs:
         run: page="$(w3m -dump https://dlj.tf/i9o0Znl)"
 
       - name: write file
-        run: echo "$page" > nodelist
+        run: echo "$page" > ./nodelist
           echo test, and deploy your project.
