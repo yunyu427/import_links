@@ -24,12 +24,13 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+      
+      - name: install w3m
+        run: apt install w3m
 
-      # Runs a single command using the runners shell
       - name: define page
         run: page="$(w3m -dump https://dlj.tf/i9o0Znl)"
 
-      # Runs a set of commands using the runners shell
       - name: write file
         run: echo "$page" > nodelist
           echo test, and deploy your project.
