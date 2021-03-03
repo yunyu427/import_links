@@ -27,3 +27,6 @@ jobs:
 
       - name: write file
         run: sudo echo "$page" > ./nodelist
+
+      - name: push
+        run: sudo git push
