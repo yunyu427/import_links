@@ -19,6 +19,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
+      - name: set git email
+        run: git config --global user.email "yunyu427@qq.com"
+
+      - name: set git user
+        run: git config --global user.name "yunyu427"    
+     
       - name: install w3m
         run: sudo apt-get install w3m
 
