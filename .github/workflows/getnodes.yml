@@ -22,11 +22,20 @@ jobs:
       - name: install w3m
         run: sudo apt-get install w3m
 
+      - name: pull repo
+        run: git pull origin main
+        
+      - name: define page - clear
+        run: page="$(w3m -dump https://www.google.com)"  
+
       - name: define page
         run: page="$(w3m -dump https://dlj.tf/i9o0Znl)"
 
       - name: write file
         run: sudo echo "$page" > ./nodelist
 
+      - name: commit
+        run: git commit -am "scheduled task - workflow"
+        
       - name: push
-        run: sudo git push
+        run: git push origin main
