@@ -33,6 +33,8 @@ proxies:
 - {"name":"Relay_🇩🇪DE-🇩🇪DE_600 |38.93Mb","server":"193.176.86.190","type":"ss","country":"🇩🇪DE","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇩🇪DE-🇩🇪DE_667 |38.85Mb","server":"193.176.86.190","type":"ss","country":"🇩🇪DE","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_938 |41.72Mb","server":"girl.chatcome.com","type":"ss","country":"🇫🇷FR","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇫🇷FR-🇫🇷FR_958 |40.31Mb","server":"grafana.friyonline.com","type":"ss","country":"🇫🇷FR","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_961 |19.46Mb","server":"54.37.206.176","type":"ss","country":"🇫🇷FR","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_963 |43.01Mb","server":"grafana.friyonline.com","type":"ss","country":"🇫🇷FR","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇫🇷FR-🇫🇷FR_980 |37.59Mb","server":"tracking.supergirle.com","type":"ss","country":"🇫🇷FR","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_1007 |42.67Mb","server":"grafana.friyonline.com","type":"ss","country":"🇫🇷FR","port":807,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
