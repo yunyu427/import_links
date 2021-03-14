@@ -1,1 +1,2 @@
-
+- {"name":"Relay_🇨🇦CA-🇨🇦CA_451 |23.09Mb","server":"ss-02.ssrsub.one","type":"ss","country":"🇨🇦CA","port":1682,"password":"t.me/SSRSUB","cipher":"aes-128-gcm"}
+- {"name":"Relay_🇨🇳CN-🇭🇰HK_496 |17.16Mb","server":"183.232.228.113","type":"ssr","country":"🇨🇳CN","port":34225,"password":"http://cc.ax/","cipher":"aes-256-cfb","protocol":"auth_aes128_md5","protocol-param":"165400:Hr2aXO","obfs":"plain","obfs-param":"data.bilibili.com/ed5a2165400"}
