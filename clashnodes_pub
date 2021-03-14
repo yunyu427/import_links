@@ -31,6 +31,7 @@ proxies:
 - {"name":"Relay_🇩🇪DE-🇩🇪DE_604 |38.85Mb","server":"193.176.86.190","type":"ss","country":"🇩🇪DE","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇩🇪DE-🇩🇪DE_623 |38.93Mb","server":"193.176.86.190","type":"ss","country":"🇩🇪DE","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇩🇪DE-🇩🇪DE_661 |38.25Mb","server":"193.176.86.190","type":"ss","country":"🇩🇪DE","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇩🇪DE-🇩🇪DE_675 |43.68Mb","server":"gefree.free2222.xyz","type":"vmess","country":"🇩🇪DE","port":443,"uuid":"d01dc9ff-ef1a-4a5e-9343-fecc369a539d","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ray","servername":"gefree.free2222.xyz","ws-headers":{"HOST":"gefree.free2222.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_926 |41.72Mb","server":"girl.chatcome.com","type":"ss","country":"🇫🇷FR","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_949 |42.67Mb","server":"grafana.friyonline.com","type":"ss","country":"🇫🇷FR","port":807,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_953 |19.46Mb","server":"54.37.206.176","type":"ss","country":"🇫🇷FR","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
