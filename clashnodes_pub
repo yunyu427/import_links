@@ -51,3 +51,4 @@ proxies:
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_1027 |43.58Mb","server":"grafana.friyonline.com","type":"ss","country":"🇫🇷FR","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_1056 |36.63Mb","server":"tracking.supergirle.com","type":"ss","country":"🇫🇷FR","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_1057 |40.79Mb","server":"girl.chatcome.com","type":"ss","country":"🇫🇷FR","port":807,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇷🇺RU-🇷🇺RU_2072 |31.04Mb","server":"ru05.tsutsu.cc","type":"vmess","country":"🇷🇺RU","port":443,"uuid":"2c8b12ad-d487-40e3-9d9d-35d29c970a31","alterId":0,"cipher":"auto","network":"ws","ws-path":"/tsutsu","servername":"ru05.tsutsu.cc","ws-headers":{"HOST":"ru05.tsutsu.cc"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
