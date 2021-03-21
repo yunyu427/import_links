@@ -1,4 +1,9 @@
 proxies:
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_479 |44.97Mb","server":"v2-01.ssrsub.one","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"d0ef79d7-de7b-41b7-8533-3e97126b5472","alterId":1,"cipher":"auto","network":"ws","ws-path":"/ssrsubvws","servername":"v2-01.ssrsub.one","ws-headers":{"HOST":"v2-01.ssrsub.one"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"Relay_🇩🇪DE-🇩🇪DE_625 |38.39Mb","server":"193.176.86.190","type":"ss","country":"🇩🇪DE","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇩🇪DE-🇩🇪DE_627 |38.15Mb","server":"193.176.86.190","type":"ss","country":"🇩🇪DE","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇨🇦CA |36.78Mb","server":"ss-06.ssrsub.one","type":"ss","country":"🇨🇦CA","port":1692,"password":"t.me/SSRSUB","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
+- {"name":"Relay_🇨🇦CA |36.04Mb","server":"ss-10.ssrsub.one","type":"ss","country":"🇨🇦CA","port":1692,"password":"t.me/SSRSUB","cipher":"aes-128-gcm"}
+- {"name":"Relay_🇨🇦CA |46.25Mb","server":"ss-07.ssrsub.one","type":"ss","country":"🇨🇦CA","port":192,"password":"dlj.tf/ssrsub","cipher":"aes-128-gcm"}
+- {"name":"Relay_🇨🇦CA |34.53Mb","server":"ss-04.ssrsub.one","type":"ss","country":"🇨🇦CA","port":1692,"password":"t.me/SSRSUB","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
+- {"name":"Relay_🇨🇦CA-🇨🇦CA_478 |44.97Mb","server":"v2-01.ssrsub.one","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"d0ef79d7-de7b-41b7-8533-3e97126b5472","alterId":1,"cipher":"auto","network":"ws","ws-path":"/ssrsubvws","servername":"v2-01.ssrsub.one","ws-headers":{"HOST":"v2-01.ssrsub.one"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇩🇪DE-🇩🇪DE_594 |38.15Mb","server":"193.176.86.190","type":"ss","country":"🇩🇪DE","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇩🇪DE-🇩🇪DE_605 |38.39Mb","server":"193.176.86.190","type":"ss","country":"🇩🇪DE","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇩🇪DE-🇩🇪DE_629 |38.03Mb","server":"193.176.86.190","type":"ss","country":"🇩🇪DE","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
