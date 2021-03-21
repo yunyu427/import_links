@@ -1,5 +1,5 @@
 proxies:
-- {"name":"Relay_ |36.04Mb","server":"ss-10.ssrsub.one","type":"ss","country":"🇨🇦CA","port":1692,"password":"t.me/SSRSUB","cipher":"aes-128-gcm"}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}- {"name":"Relay_ |36.04Mb","server":"ss-10.ssrsub.one","type":"ss","country":"🇨🇦CA","port":1692,"password":"t.me/SSRSUB","cipher":"aes-128-gcm"}
 - {"name":"Relay_ |46.25Mb","server":"ss-07.ssrsub.one","type":"ss","country":"🇨🇦CA","port":192,"password":"dlj.tf/ssrsub","cipher":"aes-128-gcm"}
 - {"name":"Relay_ |34.53Mb","server":"ss-04.ssrsub.one","type":"ss","country":"🇨🇦CA","port":1692,"password":"t.me/SSRSUB","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
 - {"name":"Relay_ |42.40Mb","server":"ss-08.ssrsub.one","type":"ss","country":"🇨🇦CA","port":1692,"password":"t.me/SSRSUB","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
