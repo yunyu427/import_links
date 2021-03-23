@@ -42,3 +42,5 @@ proxies:
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_996 |38.22Mb","server":"grafana.friyonline.com","type":"ss","country":"🇫🇷FR","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_1040 |39.45Mb","server":"54.37.206.176","type":"ss","country":"🇫🇷FR","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_1059 |36.30Mb","server":"girl.chatcome.com","type":"ss","country":"🇫🇷FR","port":807,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇯🇵JP-🇯🇵JP_1516 |27.54Mb","server":"v1-aws-jp-02.tudog.me","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"df10a281-5ae4-3330-9bcf-9107f76c7270","alterId":2,"cipher":"auto","network":"ws","ws-path":"/tudog","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇯🇵JP-🇯🇵JP_1517 |24.93Mb","server":"v1-aws-jp-10.tudog.me","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"df10a281-5ae4-3330-9bcf-9107f76c7270","alterId":2,"cipher":"auto","network":"ws","ws-path":"/tudog","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
