@@ -1,5 +1,5 @@
 proxies:
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_454 |24.65Mb","server":"v2-01.ssrsub.one","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"e4ebbb52-8e14-11eb-a1b2-0050569b1ae9","alterId":0,"cipher":"auto","network":"ws","ws-path":"/uCVMAvYp/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}- {"name":"Relay_🇨🇦CA-🇨🇦CA_454 |24.65Mb","server":"v2-01.ssrsub.one","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"e4ebbb52-8e14-11eb-a1b2-0050569b1ae9","alterId":0,"cipher":"auto","network":"ws","ws-path":"/uCVMAvYp/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"Relay_🇩🇪DE-🇩🇪DE_568 |37.05Mb","server":"193.176.86.190","type":"ss","country":"🇩🇪DE","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇩🇪DE-🇩🇪DE_571 |36.88Mb","server":"193.176.86.190","type":"ss","country":"🇩🇪DE","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇩🇪DE-🇩🇪DE_619 |37.02Mb","server":"193.176.86.190","type":"ss","country":"🇩🇪DE","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
