@@ -46,3 +46,5 @@ proxies:
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_984 |41.85Mb","server":"girl.chatcome.com","type":"ss","country":"🇫🇷FR","port":807,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_987 |36.26Mb","server":"tracking.supergirle.com","type":"ss","country":"🇫🇷FR","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_1002 |40.62Mb","server":"girl.chatcome.com","type":"ss","country":"🇫🇷FR","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇫🇷FR-🇫🇷FR_1091 |37.96Mb","server":"54.37.206.176","type":"ss","country":"🇫🇷FR","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇫🇷FR-🇫🇷FR_1118 |15.30Mb","server":"eu-v2ray.sshkit.net","type":"vmess","country":"🇫🇷FR","port":443,"uuid":"a982160e-06dd-42ca-9621-b7127d3766c5","alterId":64,"cipher":"auto","network":"ws","ws-path":"/sshkit","servername":"apps.iti.gov.eg","ws-headers":{"HOST":"apps.iti.gov.eg"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
