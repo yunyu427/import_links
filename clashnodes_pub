@@ -30,3 +30,4 @@ proxies:
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_979 |39.98Mb","server":"girl.chatcome.com","type":"ss","country":"🇫🇷FR","port":807,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_986 |41.82Mb","server":"grafana.friyonline.com","type":"ss","country":"🇫🇷FR","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_1050 |39.71Mb","server":"ss.uk.sshmax.net","type":"ss","country":"🇫🇷FR","port":57478,"password":"HgVDIN05O6bH","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇯🇵JP-🇯🇵JP_1537 |24.82Mb","server":"s43.snodes.xyz","type":"vmess","country":"🇯🇵JP","port":443,"uuid":"f77fdcb0-07f4-3c41-8a74-5cf19a5c7a58","alterId":1,"cipher":"auto","network":"ws","ws-path":"/panel","servername":"s43.snodes.xyz","ws-headers":{"HOST":"s43.snodes.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
