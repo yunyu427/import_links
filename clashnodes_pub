@@ -45,3 +45,4 @@ proxies:
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_970 |26.51Mb","server":"tracking.supergirle.com","type":"ss","country":"🇫🇷FR","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_1007 |23.32Mb","server":"grafana.friyonline.com","type":"ss","country":"🇫🇷FR","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"Relay_🇫🇷FR-🇫🇷FR_1077 |41.38Mb","server":"54.37.206.176","type":"ss","country":"🇫🇷FR","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇭🇰HK-🇭🇰HK_1274 |19.02Mb","server":"hk11.indihome.tk","type":"vmess","country":"🇭🇰HK","port":22445,"uuid":"4a9cd0a6-1f62-495c-b65f-41e04698bdec","alterId":1,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
