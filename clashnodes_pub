@@ -1,28 +1,4 @@
 proxies:
-- {"name":"Pool_🇹🇼TW_2159","server":"2.58.241.3","type":"ss","country":"🇹🇼TW","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2160","server":"2.58.242.43","type":"ss","country":"🇹🇼TW","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2161","server":"2.58.242.133","type":"ss","country":"🇹🇼TW","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2162","server":"2.58.242.133","type":"ss","country":"🇹🇼TW","port":38033,"password":"xpQwyV4W5FdA6NMANJJx73US","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2163","server":"2.58.242.133","type":"ss","country":"🇹🇼TW","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2164","server":"2.58.241.45","type":"ss","country":"🇹🇼TW","port":38033,"password":"xpQwyV4W5FdA6NMANJJx73US","cipher":"aes-256-gcm"}
-- {"name":"🇹🇼TW_2165","server":"2.58.241.46","type":"ss","country":"🇹🇼TW","port":38033,"password":"xpQwyV4W5FdA6NMANJJx73US","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2166","server":"2.58.242.133","type":"ss","country":"🇹🇼TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2167","server":"2.58.241.3","type":"ss","country":"🇹🇼TW","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2168","server":"2.58.241.29","type":"ss","country":"🇹🇼TW","port":38033,"password":"xpQwyV4W5FdA6NMANJJx73US","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2169","server":"2.58.241.45","type":"ss","country":"🇹🇼TW","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2170","server":"2.58.241.27","type":"ss","country":"🇹🇼TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2171","server":"2.58.241.3","type":"ss","country":"🇹🇼TW","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2172","server":"2.58.242.51","type":"ss","country":"🇹🇼TW","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2173","server":"2.58.242.45","type":"ss","country":"🇹🇼TW","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇹🇼TW_2174","server":"2.58.242.46","type":"ss","country":"🇹🇼TW","port":38033,"password":"xpQwyV4W5FdA6NMANJJx73US","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2175","server":"2.58.241.29","type":"ss","country":"🇹🇼TW","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2176","server":"2.58.241.27","type":"ss","country":"🇹🇼TW","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2177","server":"2.58.241.45","type":"ss","country":"🇹🇼TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2178","server":"2.58.242.131","type":"ss","country":"🇹🇼TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2179","server":"2.58.242.51","type":"ss","country":"🇹🇼TW","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2180","server":"2.58.242.45","type":"ss","country":"🇹🇼TW","port":38033,"password":"xpQwyV4W5FdA6NMANJJx73US","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2181","server":"2.58.242.43","type":"ss","country":"🇹🇼TW","port":38033,"password":"xpQwyV4W5FdA6NMANJJx73US","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇹🇼TW_2182","server":"2.58.241.27","type":"ss","country":"🇹🇼TW","port":38033,"password":"xpQwyV4W5FdA6NMANJJx73US","cipher":"aes-256-gcm"}
 - {"name":"Relay_ |28.46Mb","server":"ss-09.ssrsub.one","type":"ss","country":"🇨🇦CA","port":155,"password":"dlj.tf/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
 - {"name":"Relay_ |15.00Mb","server":"ss-10.ssrsub.one","type":"ss","country":"🇨🇦CA","port":1155,"password":"t.me/SSRSUB","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
 - {"name":"Relay_ |50.72Mb","server":"ss-07.ssrsub.one","type":"ss","country":"🇨🇦CA","port":155,"password":"dlj.tf/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
@@ -47,6 +23,7 @@ proxies:
 - {"name":"Relay_ |18.95Mb","server":"ss-18.ssrsub.one","type":"ss","country":"🇷🇺RU","port":1155,"password":"t.me/SSRSUB","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
 - {"name":"Relay_ |22.11Mb","server":"ssr-10.ssrsub.one","type":"ssr","country":"🇺🇸US","port":8897,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
 - {"name":"Relay_ |22.33Mb","server":"c-jp-dv1.ooxc.cc","type":"vmess","country":"🇺🇸US","port":443,"uuid":"f299184b-19e0-41a4-9b4b-65fa8f0e691c","alterId":64,"cipher":"auto","network":"ws","ws-path":"/jj","servername":"c-jp-dv1.ooxc.cc","ws-headers":{"HOST":"c-jp-dv1.ooxc.cc"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"Relay_🇺🇸US-🇺🇸US_2836 |54.07Mb","server":"free.milagropets.tech","type":"vmess","country":"🇺🇸US","port":80,"uuid":"fe4b09d6-8af6-33a2-8340-d3539f8c8a4c","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ray","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"Relay_ |51.39Mb","server":"ch.loogsom.xyz","type":"vmess","country":"🇺🇸US","port":443,"uuid":"a8894fe2-93db-4698-a7b8-201dd06f5a21","alterId":4,"cipher":"auto","network":"ws","ws-path":"/v","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"Relay_ |15.42Mb","server":"76.223.41.174","type":"vmess","country":"🇺🇸US","port":4439,"uuid":"7ed92a87-af1f-362e-a340-d73c7f771f12","alterId":2,"cipher":"auto","network":"ws","ws-path":"/ny","servername":"45.88.42.187","ws-headers":{"HOST":"45.88.42.187"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"Relay_ |54.61Mb","server":"cl.loogsom.xyz","type":"vmess","country":"🇺🇸US","port":443,"uuid":"f318a25e-9e0e-4fb3-bb1a-5ef21a36677e","alterId":4,"cipher":"auto","network":"ws","ws-path":"/v","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
