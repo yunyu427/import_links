@@ -23,9 +23,6 @@ proxies:
 - {"name":"Pool_🇹🇼TW_2125","server":"2.58.241.3","type":"ss","country":"🇹🇼TW","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
 - {"name":"Pool_🇹🇼TW_2126","server":"2.58.242.131","type":"ss","country":"🇹🇼TW","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
 - {"name":"Pool_🇹🇼TW_2127","server":"2.58.242.133","type":"ss","country":"🇹🇼TW","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"Relay_ |20.48Mb","server":"ss-03.ssrsub.one","type":"ss","country":"🇨🇦CA","port":155,"password":"dlj.tf/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_ |19.73Mb","server":"ss-10.ssrsub.one","type":"ss","country":"🇨🇦CA","port":1155,"password":"t.me/SSRSUB","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_ |44.62Mb","server":"ss-04.ssrsub.one","type":"ss","country":"🇨🇦CA","port":1155,"password":"t.me/SSRSUB","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
 - {"name":"Relay_🇨🇦CA-🇨🇦CA_455 |19.69Mb","server":"ssr-02.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":184,"password":"t.me/SSRSUB","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
 - {"name":"Relay_🇨🇦CA-🇨🇦CA_456 |42.21Mb","server":"ssr-05.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":8814,"password":"https://suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
 - {"name":"Relay_🇨🇦CA-🇨🇦CA_458 |18.90Mb","server":"ssr-03.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":8814,"password":"https://suo.yt/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
