@@ -28,4 +28,4 @@ proxies:
 - {"name":"Pool_🇹🇼TW_2205","server":"2.58.241.3","type":"ss","country":"🇹🇼TW","port":37473,"password":"enctdKyJfSu76VqznKwTt6Ap","cipher":"aes-256-gcm"}
 - {"name":"Pool_🇹🇼TW_2206","server":"2.58.241.3","type":"ss","country":"🇹🇼TW","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
 - {"name":"🇹🇼TW_2207","server":"2.58.241.4","type":"ss","country":"🇹🇼TW","port":38033,"password":"xpQwyV4W5FdA6NMANJJx73US","cipher":"aes-256-gcm"}
-- {"name":"NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"Relay_🇨🇦CA-🇨🇦CA_433 |33.66Mb","server":"ss-04.ssrsub.one","type":"ss","country":"🇨🇦CA","port":1156,"password":"t.me/SSRSUB","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
